@@ -1,3 +1,3 @@
 #  Форма регистрации
-## https://github.com/thebettermay/thebettermay.github.io
+## thebettermay.github.io/validation
 
